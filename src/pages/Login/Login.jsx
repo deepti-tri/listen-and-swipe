@@ -21,7 +21,7 @@ const Login = () => {
 
                 <p id="pitch">
                     Ever loved a song so much you wanted to swipe right on it? Here's an app for you! 
-                    With Listen and Swipe, you just need a spotify account and we'll recommend you songs
+                    With Listen and Swipe, you just need a Spotify account and we'll recommend you songs
                     based on your recent playlist history! Swipe the card right if you like the song, and left if you don't.
                     We'll compile the liked songs into a list for you to see!
                     (Remember to click on the album cover to listen to the song on Spotify).
