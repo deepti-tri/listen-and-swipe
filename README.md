@@ -1,4 +1,4 @@
-# <a href="https://deepti-tri.github.io/listen-and-swipe/" target="_blank">Access the App here!</a>
+# [Access the App here!](https://deepti-tri.github.io/listen-and-swipe/)
 
 In the project directory, you can run:
 
