@@ -16,7 +16,7 @@ const Login = () => {
             <div className="login-card">
 
                 <h1 className="landing-page-title">
-                 Listen & Swipe 
+                 Listen And Swipe 
                 </h1>
 
                 <p id="pitch">
