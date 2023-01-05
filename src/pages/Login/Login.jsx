@@ -3,7 +3,7 @@ import spotify from './images/spotify.png';
 
 const Login = () => {
     function login(){
-		let client_id = '0bb1e801202d4028b044f848af13e749'; // Your client id
+		let client_id = 'client-id'; // Your client id
         let redirect_uri = window.location.href + 'app/'; // Your redirect uri
         
 		let scope = 'user-read-private user-read-email playlist-read-private playlist-read-collaborative ';
